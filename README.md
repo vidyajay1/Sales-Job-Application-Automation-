@@ -6,5 +6,5 @@ START_CODE = "last job code I applied for" + 1
 END_CODE = "most recent job code that has been listed"
 <br>
 
-and the code increments through these job codes
+and the code increments through these job codes after submitting each application
 
