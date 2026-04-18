@@ -1,5 +1,5 @@
 # GrowthOps AI
-I do sales and apply to 100 codes a day for different businesses I work with, so I automated the job application for this instead of applying manually. I update the job codes every time I run it from the last code I applied for to the most recent code that has been listed 
+I do sales outreach and apply to 100 codes a day for different businesses I work with, so I automated the job application for this instead of applying manually. I update the job codes every time I run it from the last code I applied for to the most recent code that has been listed 
 <br>
 START_CODE = "last job code I applied for" + 1
 <br>
